@@ -124,10 +124,6 @@ $(".up").click(function() {
 	
 });
 
-$("body").niceScroll({
-	cursorcolor:"black",
-	cursorborder:"1px solid #006555"
-});
 
 
 
